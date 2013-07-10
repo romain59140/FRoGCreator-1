@@ -16,7 +16,7 @@ FRoGCreator is a 2D mmorpg creator written in C# using .Net & mono.
 
 
 
-3. Creating game with Rana
+3. Creating game with FRoGCreator
 ==========================
 
 
